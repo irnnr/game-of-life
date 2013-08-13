@@ -49,12 +49,6 @@
                         <format>html</format>
                     </formats>
                 </configuration>
-                <executions>
-                    <execution>
-                        <goal>clean</goal>
-                        <goal>check</goal>
-                    </execution>
-                </executions>
             </plugin>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
